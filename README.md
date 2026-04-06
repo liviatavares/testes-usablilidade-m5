@@ -6,25 +6,25 @@ As telas analisadas foram as seguintes:
 
 <div align="center">
   <sub>Figura 01 - Tela inicial</sub>
-  <img src="./assets/telainicial.jpeg" alt="Figura 01 - Tela inicial">
+  <img src="telainicial.jpeg" alt="Figura 01 - Tela inicial">
   <sub>Fonte - Elaborado pelos autores (2026)</sub>
 </div>
 
 <div align="center">
   <sub>Figura 02 - Tela de gerar resposta</sub>
-  <img src="./assets/gerarresposta.jpeg" alt="Figura 01 - Tela inicial">
+  <img src="gerarresposta.jpeg" alt="Figura 01 - Tela inicial">
   <sub>Fonte - Elaborado pelos autores (2026)</sub>
 </div>
 
 <div align="center">
   <sub>Figura 03 - Tela de respostas ativas</sub>
-  <img src="./assets/respostas.jpeg" alt="Figura 01 - Tela inicial">
+  <img src="respostas.jpeg" alt="Figura 01 - Tela inicial">
   <sub>Fonte - Elaborado pelos autores (2026)</sub>
 </div>
 
 <div align="center">
   <sub>Figura 04 - Tela de gerar relatório</sub>
-  <img src="./assets/gerarrelatorio.jpeg" alt="Figura 01 - Tela inicial">
+  <img src="gerarrelatorio.jpeg" alt="Figura 01 - Tela inicial">
   <sub>Fonte - Elaborado pelos autores (2026)</sub>
 </div>
 
