@@ -30,11 +30,11 @@ As telas analisadas foram as seguintes:
 
 As 4 telas acima representam um fluxo de usuário para conseguir gerar o relatório de uma resposta a uma ocorrência já existente. A partir da tela inicial (figura 01), o fluxo é o seguinte:
 
-Tela inicial -> Criar ocorrência -> Selecionar os recursos -> Gerar ocorrência -> Tela inicial -> Gerar resposta -> Selecionar as UPS e gerar respostas múltiplas -> Selecionar uma resposta -> Finalizar e despachar -> Gerar relatório -> Tela de respostas ativas -> Clicar em "PDF" para salvar o relatório da resposta em pdf.
+**Tela inicial -> Criar ocorrência -> Selecionar os recursos -> Gerar ocorrência -> Tela inicial -> Gerar resposta -> Selecionar as UPS e gerar respostas múltiplas -> Selecionar uma resposta -> Finalizar e despachar -> Gerar relatório -> Tela de respostas ativas -> Clicar em "PDF" para salvar o relatório da resposta em pdf.**
 
 Para fins de simplificação, espera-se que a ocorrência já esteja criada, bem como a resposta a ela, de modo a testar a funcionalidade de gerar relatório, então o fluxo simplifica-se para:
 
-Tela inicial -> Gerar relatório -> Tela de respostas ativas -> Clicar em "PDF" para salvar o relatório da resposta em pdf.
+**Tela inicial -> Gerar relatório -> Tela de respostas ativas -> Clicar em "PDF" para salvar o relatório da resposta em pdf.**
 
 ## 2. Tipo de teste
 
